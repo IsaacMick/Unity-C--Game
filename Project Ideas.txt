@@ -1,0 +1,1 @@
+I want to make a beat em up / platformer game in unity. If time allows, I want to add a smash bros characteristic to the game as well.

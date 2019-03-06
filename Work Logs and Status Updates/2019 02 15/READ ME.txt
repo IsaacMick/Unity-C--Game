@@ -1,0 +1,7 @@
+So, currently I am working on the basics of my game with the basic algorithms for the game.
+
+I spent a long time trying to figure out ifI could get my PS4 Controller to mimic the mouse position, but that might be something I have
+to work on later.
+
+I would like to eventually work on level design and actual gameplay, but right now I am stuck in a rut where I need to build some
+more algorithms before I can step into actual developement in the game.

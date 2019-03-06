@@ -1,0 +1,5 @@
+So, currently I am working on the basics of my game with the basic algorithms for the game.
+
+I have a very simple enemy that walks around and ground and player movement. 
+
+I want to make a more stable jumping component and better enemies. I am hoping I can start actual level design the week after next.
