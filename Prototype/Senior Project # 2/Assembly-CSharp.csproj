@@ -62,8 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ArmRotation.cs" />
+    <Compile Include="Assets\BulletTrailMovement.cs" />
     <Compile Include="Assets\followPlayer.cs" />
+    <Compile Include="Assets\GameMasterScript.cs" />
     <Compile Include="Assets\Parallax.cs" />
+    <Compile Include="Assets\playerScript.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
