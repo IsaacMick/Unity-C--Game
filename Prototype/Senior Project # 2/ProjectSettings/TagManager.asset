@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fire
   - GM
+  - gm
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -15,6 +17,8 @@ TagManager:
   - UI
   - 
   - 
+  - Obstacle
+  - Enemy
   - Player
   - 
   - 
@@ -37,21 +41,22 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
+  - name: Sky
+    uniqueID: 3506503621
     locked: 0
   - name: Background
     uniqueID: 738832623
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 1334285235
     locked: 0
   - name: Player
     uniqueID: 2242615871
     locked: 0
   - name: Foreground
     uniqueID: 2054877575
-    locked: 0
-  - name: New Layer
-    uniqueID: 1334285235
     locked: 0
